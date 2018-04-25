@@ -1,0 +1,11 @@
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\bin\Debug\TicTacDiaz.exe.config
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\bin\Debug\TicTacDiaz.exe
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\bin\Debug\TicTacDiaz.pdb
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\obj\Debug\TicTacDiaz.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\obj\Debug\TicTacDiaz.Form1.resources
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\obj\Debug\TicTacDiaz.Properties.Resources.resources
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\obj\Debug\TicTacDiaz.csproj.GenerateResource.Cache
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\obj\Debug\TicTacDiaz.exe
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\obj\Debug\TicTacDiaz.pdb
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\owner\Documents\School\IST 240\TicTacDiaz\TicTacDiaz\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
